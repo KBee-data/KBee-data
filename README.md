@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hello! Bonjour ! I'm Kimberly 👋
 
 🌍 Based in Bordeaux, France | 🌐 [LinkedIn](https://www.linkedin.com/in/kimberlynblack/)

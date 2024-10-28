@@ -28,17 +28,21 @@ My **attention to detail**, active **listening** skills, **transparency** and **
 - **Data Analysis Tools**: Microsoft Power BI, Tableau, Excel (Conditional Formatting, Pivot Tables)
 
 ## Soft Skills
-- Versatile
-- Meticulous
+- Analytical
+- Curious
+- Detail-oriented
 - Active Listener
 - Organized
-
+- Collaborative
+- Adaptable
 
 ## Projects
-- **[Film Recommendation System](link to be provided**: A ML-based recommendation system for a local cinema
-- **[Crime Prevention Dashboard in Tableau](link to be provided)**: An application predicting holiday packages using Streamlit and Python.
-- **[Dashboard for Toys & Models Company](link to be provided)**: A comprehensive BI dashboard covering sales, finance, logistics, and HR metrics.
-- **[Crime Prevention Dashboard in Tableau](link to be provided)**: Descriptive analysis project focusing on crimes recorded in India 
+- **[Late Aircraft Prediction System, Late Aircraft Analysis Dashboard (Tableau), Customer Review Sentiment Analysis]**(link to be provided): A ML model to predict if an aircraft would be late on arrival, accompanied by a dashboard analyzing trends of flights in the US that take off or arrive late, and an exhaustive analysis of customer reviews and satisfaction notes for specific airlines.
+  
+- **[Film Recommendation System, Dashboard Analyzing trends in films and cinema admissions in France (Power BI)]**(link to be provided): A ML-based recommendation system for a local cinema (hosted locally via Streamlit) coupled with a Dashboard analyzing trends in films (most popular genres & actors) and cinema admissions in France
+  
+- **[Dashboard for a Toys & Models Company]**(link to be provided): A comprehensive BI dashboard covering sales, finance, logistics, and HR metrics
+- **[Crime Prevention Dashboard in Tableau]**(link to be provided): A Descriptive analysis project focusing on analyzing trends in crimes recorded in India and finding solutions for implementing preventative measures.
 
 ## Interests
 - Reading (thrillers, critical essays), e-learning methods, dance (Afro/Dancehall, Street)

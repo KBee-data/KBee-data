@@ -3,7 +3,7 @@
 🌍 Based in Bordeaux, France | 🌐 [LinkedIn](https://www.linkedin.com/in/kimberlynblack/)
 
 ## About Me
-I'm a recently converted techie, who's eager for new professional challenges and collaborations in the realm of Data Analysis. 
+I'm a recently converted techie, who's eager for new professional challenges and collaborations in the realm of **Data Analysis** and **AI**. 
 
 After completing an intensive 5-month professional bootcamp, I have been able to develop and perfect skills in:
 - **EDA** (Python)

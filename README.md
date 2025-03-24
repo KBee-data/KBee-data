@@ -20,7 +20,7 @@ My **attention to detail**, active **listening** skills, **transparency** and **
 - 🎓 **Education**: **Data Analyst** - Professional Certification, Bac+4 (Wild Code School)  |  Master in Linguistics - Discourse Analysis (Sorbonne Nouvelle)  |  Master in Publishing and Professional Writing (Sorbonne Nouvelle)
 -                    
 - 👯 **Looking to collaborate on**: Open-source data science projects
-- 📫 **How to reach me**: [Email](mailto:kimberly.n.black@gmail.com) | [GitHub](https://github.com/KBee-data/KBee-data)
+- 📫 **How to reach me**: [Email](mailto:kimberly.n.black@gmail.com)
 
 ## Data Analysis/Engineering Skills
 - **Programming Languages**: SQL, Python
@@ -49,5 +49,4 @@ My **attention to detail**, active **listening** skills, **transparency** and **
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kimberlynblack/)
-- [GitHub](github.com/KBee-data/KBee-data)
 - [Email](mailto:kimberly.n.black@gmail.com)

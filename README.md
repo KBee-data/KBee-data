@@ -45,7 +45,7 @@ My **attention to detail**, active **listening** skills, **transparency** and **
 - Perseverant
 
 ## Projects
-- **[Late Aircraft Prediction System, Late Aircraft Analysis Dashboard (Tableau), Customer Review Sentiment Analysis]**(link to be provided): A ML model to predict if an aircraft would be late on arrival, accompanied by a dashboard analyzing trends of flights in the US that take off or arrive late, and an exhaustive analysis of customer reviews and satisfaction notes for specific airlines.
+- **[Late Aircraft Prediction System, Late Aircraft Analysis Dashboard (Tableau), Customer Review Sentiment Analysis](https://github.com/KBee-data/WCS-Project_Late-Aircraft-Prediction-System_Dashboard_Customer-Review-Sentiment-Analysis)**: A ML model to predict if an aircraft would be late on arrival, accompanied by a dashboard analyzing trends of flights in the US that take off or arrive late, and an exhaustive analysis of customer reviews and satisfaction notes for specific airlines.
   
 - **[Film Recommendation System, Dashboard Analyzing trends in films and cinema admissions in France (Power BI)]**(link to be provided): A ML-based recommendation system for a local cinema (hosted locally via Streamlit) coupled with a Dashboard analyzing trends in films (most popular genres & actors) and cinema admissions in France
   
